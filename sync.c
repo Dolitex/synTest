@@ -12,6 +12,7 @@ int main()
 
 testing 1st terminal
 
+testing 2nd terminal
 
 	return 0;
 }
