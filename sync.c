@@ -10,6 +10,8 @@ int main()
 	printf("test 2.3");
 >>>>>>> 66f4bbb4fefd7b71a00ed9a6aaa569aaf88f38b9
 
+testing 1st terminal
+
 
 	return 0;
 }
