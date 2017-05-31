@@ -15,6 +15,7 @@ testing 1st terminal
 testing 2nd terminal
 
 Testing mac
+Test 2
 
 	return 0;
 }
